@@ -1,3 +1,4 @@
+from twautomate import seed_db
 from time import time
 from twautomate import get_new_followers
 from twautomate import get_old_followers
